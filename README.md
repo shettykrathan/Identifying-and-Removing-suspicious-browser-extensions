@@ -51,22 +51,5 @@ Found only two extensions:
 
 ---
 
-## 📚 Learning Outcomes
-- 🎓 Understood the potential risks of browser extensions  
-- 👀 Learned to check extension permissions  
-- 🔄 Realized the importance of regular browser audits
-
----
-
-## 📁 GitHub Repository
-👉 _Paste your GitHub link here_
-
----
-
-## 🔑 Key Concepts
-`Browser Security` • `Extensions` • `Permissions` • `Malware Risks` • `Security Best Practices`
-
----
-
 ## ✍️ Author
 **Krathan N Shetty**
